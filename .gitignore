@@ -1,4 +1,7 @@
+
 *.txt
-test_folder/
 *.gif
 
+test_folder/
+source/
+backup_*/
