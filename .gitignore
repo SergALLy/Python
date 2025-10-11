@@ -5,3 +5,4 @@
 test_folder/
 source/
 backup_*/
+.vscode/
